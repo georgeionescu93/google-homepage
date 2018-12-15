@@ -1,0 +1,111 @@
+.nav {
+    
+    float: right;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-color: white;
+    
+    
+}
+
+#user {
+    
+    width: 30px;
+    top: -15px;
+}
+
+#notification {
+    width: 25px;
+    margin: 4px;
+}
+
+#buttons {
+    width: 23px;
+    margin: 3px;
+}
+
+#imagini {
+    margin-top: 5px;
+}
+
+#gmail {
+    margin-top: 5px;
+}
+
+a:hover { 
+  color: gray;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+    color: none;
+}
+
+#logo {
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: -130px;
+  margin-left: -100px;
+}
+
+#searchbar {
+    width: 500px;
+    height: 30px;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: 0px;
+  margin-left: -215px;
+}
+
+#keyboard {
+    width: 25px;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: 7px;
+  margin-left: 210px;
+}
+
+#record {
+    width: 15px;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: 5px;
+  margin-left: 250px;
+}
+
+#searchbutton {
+    width: 140px;
+    height: 27px;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: 55px;
+  margin-left: -110px;
+    transition-duration: 0.4s;
+}
+
+#luckybutton {
+    width: 140px;
+    height: 27px;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: 55px;
+  margin-left: 50px;
+    transition-duration: 0.4s;
+}
+
+#languages {
+     position: fixed;
+  top: 50%;
+  left: 50%;
+    margin-top: 115px;
+  margin-left: -65px;
+}
